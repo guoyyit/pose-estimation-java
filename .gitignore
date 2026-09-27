@@ -37,3 +37,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# estimator state files
+pose-state*.txt
+
